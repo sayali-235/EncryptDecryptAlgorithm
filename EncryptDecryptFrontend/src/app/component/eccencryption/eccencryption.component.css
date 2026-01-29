@@ -1,0 +1,168 @@
+/* Center Entire Page Vertically & Horizontally */
+.aes-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;       /* vertical center */
+  align-items: center;           /* horizontal center */
+  height: 70vh;                 /* full screen height */
+  padding: 10px;
+  animation: fadeIn 0.6s ease-in-out;
+}
+
+/* Title Center */
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #2d3748;
+}
+
+/* Center Card */
+.card {
+  width: 500px;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  animation: fadeInUp 0.6s ease;
+}
+
+/* Input Label */
+.label {
+  font-weight: bold;
+  color: #4a5568;
+}
+
+.input-box {
+  width: 100%; 
+  margin-top: 6px;
+  border: 2px solid #cbd5e0;
+  border-radius: 8px;
+  font-size: 15px;
+  resize: vertical;
+  transition: 0.3s ease;
+}
+
+.input-box:focus {
+  border-color: #3182ce;
+  outline: none;
+  box-shadow: 0 0 4px rgba(49, 130, 206, 0.4);
+}
+
+.button-group {
+  display: flex;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.btn {
+  flex: 1;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  transition: 0.25s ease-in-out;
+}
+
+.encrypt {
+  background: #2b6cb0;
+  color: white;
+}
+
+.encrypt:hover {
+  background: #2c5282;
+  transform: translateY(-2px);
+}
+
+.decrypt {
+  background: #38a169;
+  color: white;
+}
+
+.decrypt:hover {
+  background: #2f855a;
+  transform: translateY(-2px);
+}
+
+.output-title {
+  margin-top: 20px;
+  color: #4a5568;
+}
+
+.output {
+  background: #f7fafc;
+  padding: 12px;
+  border-radius: 8px;
+  min-height: 80px;
+  border: 1px solid #e2e8f0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.output-container {
+  position: relative;
+  width: 100%;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #4a5568;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: 0.3s ease;
+}
+
+.copy-btn:hover {
+  background: #2d3748;
+  transform: translateY(-2px);
+}
+
+ 
+/* Fade animation */
+@keyframes fadeBadge {
+  0% { opacity: 0; transform: translateY(-5px); }
+  20% { opacity: 1; transform: translateY(0); }
+  80% { opacity: 1; }
+  100% { opacity: 0; transform: translateY(-5px); }
+}
+
+
+.back-btn {
+  align-self: flex-start;
+  background: #4a5568;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 15px;
+  font-size: 15px;
+  transition: 0.3s ease;
+}
+.top-bar { 
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+}
+
+.back-btn:hover {
+  background: #2d3748;
+  transform: translateX(-3px);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

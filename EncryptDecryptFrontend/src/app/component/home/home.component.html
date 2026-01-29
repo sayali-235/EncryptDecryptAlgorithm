@@ -1,0 +1,43 @@
+<div class="container">
+
+  <h1 class="title">Encryption Algorithms</h1>
+  <p class="subtitle">Choose an algorithm to Encrypt / Decrypt your text</p>
+
+  <div class="grid">
+
+    <div class="card" (click)="go('aes')">
+      <h3>AES Encryption</h3>
+      <p>Advanced Encryption Standard</p>
+      <p>Symmetric Encryption Algorithm</p>
+    </div>
+
+     <div class="card" (click)="go('3des')">
+      <h3>Triple DES Encryption</h3>
+      <p>Symmetric Encryption Algorithm</p>
+    </div>
+
+
+    <div class="card" (click)="go('blowfish')">
+      <h3>Blowfish Encryption</h3>
+       <p>Symmetric Encryption Algorithm</p>
+    </div>
+
+    <div class="card" (click)="go('twofish')">
+      <h3>TwoFish Encryption</h3>
+       <p>Symmetric Encryption Algorithm</p>
+    </div>
+
+    <div class="card" (click)="go('rsa')">
+      <h3>RSA Encryption</h3>
+      <p> Rivest, Shamir and Adleman</p>
+      <p>Asymmetric Encryption Algorithm</p>
+    </div>
+
+    <div class="card" (click)="go('ecc')">
+      <h3>ECC Encryption</h3>
+      <p>Elliptic Curve Cryptography</p>
+      <p>Asymmetric Encryption Algorithm</p>
+    </div> 
+  </div>
+
+</div>

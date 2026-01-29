@@ -1,0 +1,33 @@
+<div class="top-bar">
+  <button class="back-btn" (click)="goBack('/home')">← Back</button>
+</div>
+
+<div class="aes-container">
+
+  <h2 class="title">🔐 Twofish Encryption Tool</h2>
+
+  <div class="card">
+
+    <label class="label">Enter Text</label>
+    <textarea
+      [(ngModel)]="input"
+      class="input-box"
+      rows="6"
+      placeholder="Type text to encrypt or decrypt..."
+    ></textarea>
+
+    <div class="button-group">
+      <button class="btn encrypt" (click)="encrypt()">Encrypt</button>
+      <button class="btn decrypt" (click)="decrypt()">Decrypt</button>
+    </div>
+
+    <h3 class="output-title">Output</h3>
+
+<div class="output-container">
+  <pre class="output">{{ result }}</pre>
+
+  <button class="copy-btn" (click)="copyOutput()">{{ copyButtonText }}</button>
+</div>
+
+  </div>
+</div>
