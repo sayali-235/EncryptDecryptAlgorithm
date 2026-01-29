@@ -1,0 +1,14 @@
+C:\DailyTask\KeyGenerator\KeyGenerator\bin\Debug\net8.0\KeyGenerator.exe
+C:\DailyTask\KeyGenerator\KeyGenerator\bin\Debug\net8.0\KeyGenerator.deps.json
+C:\DailyTask\KeyGenerator\KeyGenerator\bin\Debug\net8.0\KeyGenerator.runtimeconfig.json
+C:\DailyTask\KeyGenerator\KeyGenerator\bin\Debug\net8.0\KeyGenerator.dll
+C:\DailyTask\KeyGenerator\KeyGenerator\bin\Debug\net8.0\KeyGenerator.pdb
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\KeyGenerator.AssemblyInfoInputs.cache
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\KeyGenerator.AssemblyInfo.cs
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\KeyGenerator.csproj.CoreCompileInputs.cache
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\KeyGenerator.dll
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\refint\KeyGenerator.dll
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\KeyGenerator.pdb
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\KeyGenerator.genruntimeconfig.cache
+C:\DailyTask\KeyGenerator\KeyGenerator\obj\Debug\net8.0\ref\KeyGenerator.dll

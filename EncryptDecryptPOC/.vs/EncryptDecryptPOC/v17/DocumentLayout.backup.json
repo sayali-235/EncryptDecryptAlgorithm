@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\helper\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\helper\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\helper\\rsaencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\helper\\rsaencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\helper\\blowfishencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\helper\\blowfishencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\helper\\eccencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\helper\\eccencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\helper\\tripledes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\helper\\tripledes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\model\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\model\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\encryptdecryptpoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\encryptdecryptpoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\common\\commoncomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\common\\commoncomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\helper\\twofishencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\helper\\twofishencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|c:\\users\\dell\\onedrive\\desktop\\dailytask\\encryptdecryptalgorithm\\encryptdecryptpoc\\encryptdecryptpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54314A7-F333-4D08-8496-575B17698154}|EncryptDecryptPOC\\EncryptDecryptPOC.csproj|solutionrelative:encryptdecryptpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripleDes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\TripleDes.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Helper\\TripleDes.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\TripleDes.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Helper\\TripleDes.cs",
+              "ViewState": "AgIAACMAAADA9/////8fwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:07:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\appsettings.json",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\appsettings.json",
+              "RelativeToolTip": "EncryptDecryptPOC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T11:59:40.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RsaEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\RsaEncryption.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Helper\\RsaEncryption.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\RsaEncryption.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Helper\\RsaEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:54:58.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAAD4AAAAABAAAAAAEwEwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:31:50.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommonComponent.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Common\\CommonComponent.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Common\\CommonComponent.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Common\\CommonComponent.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Common\\CommonComponent.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:30:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptDecryptPOC.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\EncryptDecryptPOC.csproj",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\EncryptDecryptPOC.csproj",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\EncryptDecryptPOC.csproj",
+              "RelativeToolTip": "EncryptDecryptPOC\\EncryptDecryptPOC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T09:29:55.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AesEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\AesEncryption.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Helper\\AesEncryption.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\AesEncryption.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Helper\\AesEncryption.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:27:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECCEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\ECCEncryption.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Helper\\ECCEncryption.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\ECCEncryption.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Helper\\ECCEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:06:32.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TwofishEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\TwofishEncryption.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Helper\\TwofishEncryption.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\TwofishEncryption.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Helper\\TwofishEncryption.cs",
+              "ViewState": "AgIAAAgAAABgZmZmZmYkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:20:07.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlowfishEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\BlowfishEncryption.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Helper\\BlowfishEncryption.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Helper\\BlowfishEncryption.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Helper\\BlowfishEncryption.cs",
+              "ViewState": "AgIAAB8AAADALjMzM7MhwC8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:07:10.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Model\\InputModel.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Model\\InputModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Model\\InputModel.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Model\\InputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:46:43.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Program.cs",
+              "RelativeDocumentMoniker": "EncryptDecryptPOC\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DailyTask\\EncryptDecryptAlgorithm\\EncryptDecryptPOC\\EncryptDecryptPOC\\Program.cs",
+              "RelativeToolTip": "EncryptDecryptPOC\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:18:36.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

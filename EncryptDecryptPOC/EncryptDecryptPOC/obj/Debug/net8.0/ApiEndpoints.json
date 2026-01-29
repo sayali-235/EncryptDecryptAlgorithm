@@ -1,0 +1,194 @@
+[
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "DecryptAES",
+    "RelativePath": "api/Common/decrypt/aes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "DecryptBlowfish",
+    "RelativePath": "api/Common/decrypt/blowfish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "DecryptECC",
+    "RelativePath": "api/Common/decrypt/ecc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "DecryptRSA",
+    "RelativePath": "api/Common/decrypt/rsa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "DecryptTripleDES",
+    "RelativePath": "api/Common/decrypt/TripleDes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "DecryptTwofish",
+    "RelativePath": "api/Common/decrypt/twofish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "EncryptAES",
+    "RelativePath": "api/Common/encrypt/aes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "EncryptBlowfish",
+    "RelativePath": "api/Common/encrypt/blowfish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "EncryptECC",
+    "RelativePath": "api/Common/encrypt/ecc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "EncryptRSA",
+    "RelativePath": "api/Common/encrypt/rsa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "EncryptTripleDES",
+    "RelativePath": "api/Common/encrypt/TripleDes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptDecryptPOC.Controllers.CommonController",
+    "Method": "EncryptTwofish",
+    "RelativePath": "api/Common/encrypt/twofish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EncryptDecryptPOC.Model.InputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

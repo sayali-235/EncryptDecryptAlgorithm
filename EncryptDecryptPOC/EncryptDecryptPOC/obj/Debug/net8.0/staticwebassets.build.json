@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nGbW3+a8DiM1mSAAgLUMbCLumLZI2N4xC05OLTvu9zo=",
+  "Source": "EncryptDecryptPOC",
+  "BasePath": "_content/EncryptDecryptPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
